@@ -1,5 +1,5 @@
 
-PHANToM_Sleep = 0.0000001;
+PHANToM_Sleep = 0.00000001;
 PHANToM_Round = 8;
 
 
@@ -518,8 +518,7 @@ sendText("{Result95}");setSelection(0, 2);sleep(PHANToM_Sleep);sendText("");
 sendText("{Result96}");setSelection(0, 2);sleep(PHANToM_Sleep);sendText("");
 sendText("{Result97}");setSelection(0, 2);sleep(PHANToM_Sleep);sendText("");
 sendText("{Result98}");setSelection(0, 2);sleep(PHANToM_Sleep);sendText("");
-sendText("{Result99}");setSelection(0, 2);
-PHANToM_Sleep = PHANToM_Sleep * 1;
+sendText("{Result99}");setSelection(0, 2);}
 
 
 
