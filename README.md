@@ -1,5 +1,5 @@
 
-PHANToM_Sleep = 0.000001;
+PHANToM_Sleep = 0.0000001;
 PHANToM_Round = 8;
 
 
