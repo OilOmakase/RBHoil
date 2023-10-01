@@ -528,4 +528,4 @@ else if(Notification == 1){Notification = "PHANToM RUN NUM v.7"}
 else if(Notification == 2){Notification = "Line : phantom1669"}
 else if(Notification == 3){Notification = "ไฟล์แจก by PHANToM"}
 else if(Notification == 4){Notification = "Auto Update Script"}
-Notification = "อัปเดท 30 ก.ย._10:22 น."
+Notification = "อัปเดท 1 ต.ค_20:22 น."
